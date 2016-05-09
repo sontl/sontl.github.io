@@ -247,4 +247,3 @@ of the css and html from that theme as a starting point. Thanks!
 ## License
 
 MIT. See LICENSE file in repo.
-# sontl.github.io
